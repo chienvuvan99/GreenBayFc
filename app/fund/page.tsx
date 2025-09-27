@@ -131,7 +131,7 @@ export default function FundPage() {
             <Card className="p-6 h-fit">
               <CardHeader className="p-0">
                 <CardTitle className="text-2xl font-bold">
-                  FireAnt Football Club
+                  FC G3 Green Bay
                 </CardTitle>
               </CardHeader>
               <CardContent className="flex py-6 px-0 gap-4 justify-center">
@@ -244,7 +244,7 @@ export default function FundPage() {
             </Card>
           </div>
 
-          <Card className="h-fit">
+          <Card className="h-full">
             <CardHeader>
               <CardTitle className="text-2xl font-bold">
                 Nội dung chi từ 7-2024

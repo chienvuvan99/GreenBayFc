@@ -15,15 +15,15 @@ const Header = () => {
           <Image
             src="/images/logo.png"
             alt="About Image"
-            width={60}
-            height={60}
+            width={100}
+            height={100}
             className="rounded-full xl:block hidden"
           />
           <Image
             src="/images/logo.png"
             alt="About Image"
-            width={50}
-            height={50}
+            width={80}
+            height={80}
             className="rounded-full xl:hidden block"
           />
         </div>

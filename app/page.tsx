@@ -49,7 +49,7 @@ export default function Home() {
         height={500}
         className="hidden sm:block 2xl:w-[160px] w-[150px] h-auto absolute left-[8%] 2xl:left-[280px] bottom-0"
       />
-      <Card className="w-full sm:max-w-3xl h-[60vh] sm:h-[70vh] overflow-y-auto scrollbar-hide">
+      <Card className="w-full sm:max-w-3xl h-[80vh] overflow-y-auto scrollbar-hide">
         <CardHeader>
           <CardTitle className="font-bold text-[#1F1F41]">
             Thống kê mùa giải 2025
